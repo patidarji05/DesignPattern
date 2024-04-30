@@ -1,0 +1,22 @@
+* By using Design pattern you can make your code more flexible, reusable and maintainable.
+
+* Design pattern help developer to speed up the development process.
+
+* It is the most important part because java internally follow design pattern.
+
+#  Types of Design pattern in Java.
+
+1. Creational Design Pattern : 
+							   focus on how Object are created in software Development.
+							   
+   creational Pattern provide more flexibility  in how the objects are actually created.
+
+2. Structural Design Pattern : 
+								deals with how classes and objects can be combined  to create bigger structure.
+
+   Structural Pattern deals with how inheritance and composition can be used to provide extra functionality.
+   
+ 3. Behavioral Design Pattern :
+ 								are about how objects interact and manage their responsibilities.
+ 								
+ 	Behavioral Pattern are about communication and assignment of responsibilities between our objects.
