@@ -58,3 +58,10 @@ public class Demo {
 	}
 
 }
+
+
+/**
+   1. it is  a  design pattern
+   2. In this state when subject changes the state all its dependents objects notified the changes.
+   3. it will show one to many relationship.
+ */
