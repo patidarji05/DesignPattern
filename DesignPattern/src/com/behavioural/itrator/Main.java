@@ -22,3 +22,8 @@ public class Main {
 	}
 
 }
+
+/**
+   1.  The design patter provide a way to access the element of an object without exposing its underlying implementation.
+ 
+ */
